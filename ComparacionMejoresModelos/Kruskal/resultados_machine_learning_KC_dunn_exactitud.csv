@@ -1,0 +1,4 @@
+"Comparison","bonferroni","holm","bh","equipo"
+"azar - lightgbm",8.7343183028966e-08,8.7343183028966e-08,4.3671591514483e-08,"KC"
+"azar - red",8.7343183028966e-08,5.82287886859773e-08,8.7343183028966e-08,"KC"
+"lightgbm - red",1,1,1,"KC"
